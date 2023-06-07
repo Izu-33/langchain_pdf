@@ -1,5 +1,5 @@
 # More Langchain!!!!!!
 
-![application structure](images/app_structure.png)
+![application structure](images/lchain_struct.png)
 
 
